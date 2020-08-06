@@ -1,0 +1,8 @@
+<Confirmations>
+	<Confirmation Detail="Dan" Passangers="9" Date="23rd of July" JetName="Jet9" Cabin="1" Bedroom="0" Catering="Yes" Totall="£1600"></Confirmation>
+	<Confirmation Bedroom="2" Cabin="3" Catering="No" Date="8th of August" Detail="Lucy"
+		JetName="Jet4" Passangers="8" Totall="£3500">
+	</Confirmation>
+	<Confirmation Bedroom="4" Cabin="2" Catering="No" Date="23rd July" Detail="Nick"
+		JetName="Jet3" Passangers="2" Totall="£20000">
+	</Confirmation></Confirmations>

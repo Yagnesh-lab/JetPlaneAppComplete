@@ -1,0 +1,31 @@
+<Jetplanes>
+	<jets Price="£1300" Availability="Yes" Capacity="16" Rooms="3"
+		Bedroom="1" Bathroom="2" jetname="Jet1">
+	</jets>
+	<jets Availability="Yes" Price="£16000" Bathroom="3" Bedroom="2"
+		Capacity="20" Rooms="4" jetname="Jet2">
+	</jets>
+	<jets Availability="No" Bathroom="1" Bedroom="4" Capacity="50"
+		Price="£20000" Rooms="2" jetname="Jet3">
+	</jets>
+	<jets Availability="No" Bathroom="2" Bedroom="2" Capacity="10" Rooms="3"
+		Price="£3500" jetname="Jet4">
+	</jets>
+	<jets Availability="Yes" Bathroom="1" Bedroom="2" Capacity="11" Price="£1200"
+		Rooms="2" jetname="Jet5">
+	</jets>
+	<jets Availability="Yes" Bathroom="5" Bedroom="0" Capacity="40" Price="£30500"
+		Rooms="5" jetname="Jet6">
+	</jets>
+	<jets Availability="Yes" Bathroom="4" Bedroom="3" Capacity="22" Price="£4000"
+		Rooms="5" jetname="Jet7">
+	</jets>
+	<jets Availability="Yes" Bathroom="2" Bedroom="1" Capacity="5" Price="£1000"
+		Rooms="2" jetname="Jet8">
+	</jets>
+	<jets Availability="No" Bathroom="3" Bedroom="0" Capacity="10" Price="£1100"
+		Rooms="1" jetname="Jet9">
+	</jets>
+	<jets Availability="Yes" Bathroom="2" Bedroom="1" Capacity="4" Price="£2200"
+		Rooms="3" jetname="Jet10">
+	</jets></Jetplanes>
